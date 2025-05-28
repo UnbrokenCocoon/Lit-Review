@@ -10,7 +10,7 @@ Whether you're mapping keywords across a corpus, performing semantic retrieval, 
 
 A **systematic literature review (SLR)** is a methodical approach to identifying, evaluating, and synthesising all relevant research on a specific topic. Unlike informal reading, an SLR is:
 
-- Comprehensive: it aims to include **all relevant items**, not just what is familiar
+- Comprehensive: it aims to include **all relevant items**, in a collection with limits set by keywords and time period
 - Transparent: it documents the process of how items were found and included
 - Reproducible: others should be able to follow the same process and reach similar results
 
